@@ -1,4 +1,4 @@
-# A collection of genomic resoureces for SARS-CoV-2 
+# A collection of genomic resources for SARS-CoV-2 
 
 ## Genome sequence
 

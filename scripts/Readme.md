@@ -15,7 +15,7 @@ $bash 1_minimap2_sarscov2.sh
 $bash 2_flagstat.sh
 ```
 
-3. use [clair](https://github.com/chen42/SARS-CoV-2) to find SNPs
+3. use [clair](https://github.com/chen42/SARS-CoV-2) to call variants 
 ```
 $bash 3_clair_snps.sh
 ```
